@@ -7,7 +7,7 @@
 
 ## 🖥️ Projeto
 
-Projeto tela de login. Layout produzido para login de um site de um prédio/ condomínio. Layout responsivo, usando Flexbox e media query. 
+Projeto Galeria. É um projeto de Galeria de imagens com Lightbox. Lightbox permite que ampliemos a imagem e possamos vê-las nitidamente. A funcionalidade disso é em JavaScript.
 
 ## 🚀 Tecnologias
 
